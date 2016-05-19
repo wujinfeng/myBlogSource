@@ -1,5 +1,5 @@
 ---
-title: hello 吴金锋
+title: gulp-babel转化es2016
 date: 2016-05-18 00:32:54
 tags:
 ---
