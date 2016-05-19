@@ -65,6 +65,7 @@ mkdir src && cd src && vim app.js
 ```
 
 写入代码:
+
 ``` javascript
   function f() {   
       let x;  
@@ -82,7 +83,8 @@ mkdir src && cd src && vim app.js
       console.log(x);  
   }   
   f();
-``` 
+```
+
 
 6.执行
 
