@@ -2,3 +2,4 @@
 我的博客
 wujinfeng 
 node + hexo
+window
